@@ -8,17 +8,8 @@ Per avviare il programma fare
 ### `python3 main.py`
 
 </br></br>
-# Moduli richiesti:
-## - Pip `sudo apt-get install pip`
-
-## - Pygame `pip3 install pygame --version`
-
-## - Pandas `pip3 install pandas`
-
-## - Ffpyplayer `pip3 install ffpyplayer`
-
-## - Mediainfo `pip3 install pymediainfo` `sudo apt-get install -y libmediainfo-dev`
-### Utilizzo anche le librerie 'random', 'os', 're' e 'ast' ma dovrebbero essere già presenti sul sistema
+# ITIS RIVOIRA:
+## https://github.com/itisrivoira/TheLostKeys
 
 </br></br>
 # Link Utile alla Spiegazione del gioco:
