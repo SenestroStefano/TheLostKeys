@@ -1,0 +1,6 @@
+# file da ingnorare
+
+/__pycache__
+/score.txt
+/dati.txt
+/README.md
